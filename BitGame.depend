@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1538317302 source:c:\users\jack\desktop\bitgame\main.cpp
+	<iostream>
+	"Board.h"
+	"Chess.h"
+
+1538309718 c:\users\jack\desktop\bitgame\chess.h
+	<cctype>
+
+1538309661 source:c:\users\jack\desktop\bitgame\chess.cpp
+	"Chess.h"
+
+1538317550 source:c:\users\jack\desktop\bitgame\board.cpp
+	"Board.h"
+
+1538317751 c:\users\jack\desktop\bitgame\board.h
+	<vector>
+	<set>
+	<map>
+	"Chess.h"
+
